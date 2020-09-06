@@ -1,6 +1,6 @@
 ## vue-dropify
 
-[![npm](https://img.shields.io/npm/v/@salemcode8/vue-dropify.svg)](https://www.npmjs.com/package/@salemcode8/vue-dropify) ![license](https://img.shields.io/github/license/salemcode8/vue-dropify.svg) [![npm](https://img.shields.io/npm/dw/salemcode8/vue-dropify.svg)](https://www.npmjs.com/package/salemcode8/vue-dropify) [![npm](https://img.shields.io/npm/dt/salemcode8/vue-dropify.svg)](https://www.npmjs.com/package/salemcode8/vue-dropify) 
+[![npm](https://img.shields.io/npm/v/@salemcode8/vue-dropify.svg)](https://www.npmjs.com/package/@salemcode8/vue-dropify) ![license](https://img.shields.io/github/license/salemcode8/vue-dropify.svg)
 
 ## Description
 
