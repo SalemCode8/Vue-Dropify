@@ -1,14 +1,14 @@
 ## vue-dropify
 
-[![npm](https://img.shields.io/npm/v/vue-dropify.svg)](https://www.npmjs.com/package/vue-dropify) ![license](https://img.shields.io/github/license/khofaai/vue-dropify.svg) [![Build Status](https://travis-ci.org/khofaai/vue-dropify.svg?branch=master)](https://travis-ci.org/khofaai/vue-dropify) [![npm](https://img.shields.io/npm/dw/vue-dropify.svg)](https://www.npmjs.com/package/vue-dropify) [![npm](https://img.shields.io/npm/dt/vue-dropify.svg)](https://www.npmjs.com/package/vue-dropify) 
+[![npm](https://img.shields.io/npm/v/@salemcode8/vue-dropify.svg)](https://www.npmjs.com/package/@salemcode8/vue-dropify) ![license](https://img.shields.io/github/license/salemcode8/vue-dropify.svg) [![npm](https://img.shields.io/npm/dw/salemcode8/vue-dropify.svg)](https://www.npmjs.com/package/salemcode8/vue-dropify) [![npm](https://img.shields.io/npm/dt/salemcode8/vue-dropify.svg)](https://www.npmjs.com/package/salemcode8/vue-dropify) 
 
 ## Description
 
 Dropify build for vuejs framework
 
 **vue-dropify** package links :
-- <a href="https://www.npmjs.com/package/vue-dropify" target="_blank">npm</a>
-- <a href="https://yarnpkg.com/en/package/vue-dropify" target="_blank">yarn</a>
+- <a href="https://www.npmjs.com/package/salemcode8/vue-dropify" target="_blank">npm</a>
+- <a href="https://yarnpkg.com/en/package/salemcode8/vue-dropify" target="_blank">yarn</a>
 
 ## Getting Started
 
@@ -18,10 +18,10 @@ _This packages still in Dev mode_
 ## Installing
 
 ```bash
-npm i vue-dropify
+npm i @salemcode8/vue-dropify
 ```
 ```bash
-yarn add vue-dropify
+yarn add @salemcode8/vue-dropify
 ```
 
 ## Usage
@@ -57,3 +57,4 @@ export default {
 |----           |----         |
 | **_@upload_** | trigger when image is selected |
 | **_@change_** | when change happen to input file |
+| **_@input_**  | trigger when change happen to input file (For v-model Directive) |
